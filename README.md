@@ -36,7 +36,7 @@ This project demonstrates:
 - Arduino Nano
 - DHT11 Temperature Sensor
 - LED
-- 220Ω Resistor
+- 220Ω Resistor (if requiered) 
 - USB Cable
 - Breadboard
 - Jumper Wires
