@@ -180,7 +180,7 @@ Temperature: 26.4°C / 79.5°F
 ---
 
 ## 📚 Educational Value
-- This project demonstrates:
+This project demonstrates:
 - Embedded C++
 - Sensor Interfacing
 - PWM Control
