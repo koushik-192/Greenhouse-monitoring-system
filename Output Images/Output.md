@@ -1,4 +1,4 @@
-# How to Use the UART Interface
+# How to Use the UART Interface for Output
 The UART interface in the Greenhouse Monitoring System allows the user to interact with the system through a
 terminal application like Minicom. The interface enables the user to toggle between Automatic Mode and Manual
 Mode, view temperature data, and adjust the LED brightness.
